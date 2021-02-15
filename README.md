@@ -6,11 +6,11 @@ We propose methods to identify subjects with positive effects, with a finite-sam
 
 To reproduce the experiments:
 ```
-$Rscript reproduce.R
+$Rscript code/reproduce.R
 ```
 To generate the figures:
 ```
-$Rscript plots.R
+$Rscript code/plots.R
 ```
 
 
