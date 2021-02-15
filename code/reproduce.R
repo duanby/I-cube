@@ -1,7 +1,4 @@
 source("setup.R")
-if (!file.exists("result")) {
-  dir.create("result")
-}
 
 treatment_type = "sparse_pos_bias"
 Cd_seq = seq(0, 5, length.out = 6)
